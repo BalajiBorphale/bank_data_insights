@@ -24,3 +24,19 @@ This project demonstrates a complete data analysis pipeline on banking data — 
    - Included KPIs, filters, charts, and customer segmentation visuals.
 
 
+## ⚙️ Tools & Technologies
+
+- **Python**: Pandas, Matplotlib, Seaborn, MySQL Connector
+- **MySQL**: Database storage and querying
+- **Jupyter Notebook**: Data analysis
+- **Power BI**: Dashboard creation and insights visualization
+
+## 📊 Key Insights
+
+- Customer demographics and account distribution
+- Correlation between features
+- High-risk groups or outliers (if any)
+- KPI summary with dynamic filtering
+
+
+
