@@ -23,5 +23,4 @@ This project demonstrates a complete data analysis pipeline on banking data — 
    - Designed an interactive Power BI dashboard to showcase key insights.
    - Included KPIs, filters, charts, and customer segmentation visuals.
 
-## 📁 Repository Structure
 
